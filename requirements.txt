@@ -1,0 +1,2 @@
+psycopg2~=2.8.6
+apache_airflow~=2.1.0
